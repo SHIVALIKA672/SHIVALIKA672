@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=AI+%26+Automation+Engineer+%40+Jio+Platforms;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Self-hosted+LLaMA+3.1+%2B+Hybrid+Retrieval;Python+%7C+FastAPI+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Multi-Agent+Systems+%7C+Tool+Calling+%7C+MCP;Published+Researcher+%E2%80%94+Springer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=760&lines=AI+%26+Automation+Engineer+%40+Jio+Platforms;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Self-hosted+LLaMA+3.1+%2B+Hybrid+Retrieval;Python+%7C+FastAPI+%7C+TypeScript+%7C+PostgreSQL+%7C+AWS;Multi-Agent+Systems+%7C+Tool+Calling+%7C+MCP;Published+Researcher+%E2%80%94+Springer)](https://www.linkedin.com/in/shivalika-pillai/)
 
 </div>
 
